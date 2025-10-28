@@ -1,19 +1,33 @@
 # 👋 Hi, I'm Faduma Qasim
 
-💻 **Full Stack Developer | Computer Science Major**  
-💬 *"Code is not just syntax — it’s how I shape possibilities."*
+💻 I'm a **Full Stack Developer** passionate about building fast, functional, and scalable web applications.  
+I love turning ideas into impactful products, writing clean code, and continuously learning new technologies.  
 
 ---
 
-## 🛠️ Skills
+## 🚀 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,spring,mysql,git,github" />
 </p>
 
+- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), TailwindCSS  
+- **Backend:** Node.js, Express.js / Spring Boot  
+- **Database:** MongoDB, MySQL, Mongoose  
+- **Tools:** Git & GitHub, Postman, VS Code, npm  
+- **Other:** JWT Auth, API Integration, MVC Architecture, Deployment (Vercel / Netlify / Heroku)  
+
 ---
 
-## 🚀 Projects
+## 🌱 What I’m Currently Doing
+
+- Building full-stack projects using **HTML, CSS, JavaScript, React, Node.js**  
+- Strengthening my backend & deployment skills  
+- Contributing to **open-source projects**  
+
+---
+
+## 📂 Projects
 
 <div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
 
@@ -39,7 +53,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🤝 Let’s Connect
 
 <p align="center">
 <a href="https://linkedin.com/in/fadumaqasim" target="_blank">

@@ -1,43 +1,52 @@
 # 👋 Hi, I'm Faduma Qasim
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00ffcc&width=500&lines=Hi+I'm+Faduma+Qasim;Full+Stack+Developer;Passionate+About+Building+Web+Apps)
+
 💻 **Full Stack Developer | Computer Science Major**  
 *"Code is not just syntax — it’s how I shape possibilities."*
 
 ---
 
-## 🚀 Projects (Click to Open)
+## 🚀 About Me
+I am a passionate **Full Stack Developer** who loves crafting functional, user-friendly web applications.  
+🌟 Turning ideas into reality using **HTML, CSS, JavaScript, React, Node.js**  
 
-- [Aleif Mental Health](./Aleif-Mental-Health/index.html)  
-- [Staff Management System](./Staff-Management-System/index.html)  
-- [Fake News Detection](./Fake-News-Detection/index.html)  
-
----
-
-## 🛠️ Skills
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,spring,mysql,git,github" />
-</p>
+- 🚀 Building responsive and interactive web apps  
+- ✨ Writing clean, maintainable, and efficient code  
+- 🔥 Exploring backend development, APIs, and database management  
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-<a href="https://linkedin.com/in/fadumaqasim" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+## 🛠️ Tech Stack
+- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), TailwindCSS  
+- **Backend:** Node.js, Express.js, Spring Boot  
+- **Database:** MongoDB, MySQL  
+- **Tools:** Git & GitHub, Postman, VS Code, npm  
+- **Other:** JWT Auth, API Integration, MVC Architecture, Deployment (Vercel / Netlify / Heroku)  
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Projects
+- 🌟 **Aleif Mental Health** – Responsive therapy & counseling platform  
+- 🚀 **Staff Management System** – 3-tier architecture CRUD system  
+- ✨ **Fake News Detection** – LSTM-based machine learning project  
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FadumaQasim&show_icons=true&theme=radical" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FadumaQasim&theme=radical" width="49%" />
-</p>
+---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadumaQasim&layout=compact&theme=radical" width="50%" />
-</p>
+## 🌱 Currently Learning
+- Advanced **React patterns & state management**  
+- Building robust **full-stack applications**  
+- **Cloud deployment** and CI/CD workflows  
+
+---
+
+## 🤝 Let’s Connect
+- 📧 **Email:** faduma.qasim@example.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/fadumaqasim](https://linkedin.com/in/fadumaqasim)  
+- 🐱 **GitHub:** [github.com/FadumaQasim](https://github.com/FadumaQasim)  
+- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
+
+---
+
+⭐ **Fun Quote:**  
+*"Code is not just syntax — it’s how I shape possibilities."*

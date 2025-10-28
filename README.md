@@ -1,4 +1,4 @@
-
+# 👋 Hi, I'm Faduma Qasim
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00ffcc&width=500&lines=Hi+I'm+Faduma+Qasim;Full+Stack+Developer;Passionate+About+Building+Web+Apps)
 
 💻 **Full Stack Developer | Computer Science Major**  

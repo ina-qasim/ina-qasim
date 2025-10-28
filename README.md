@@ -1,5 +1,14 @@
-<!-- Animated Intro -->
-<h1 align="center">
+<!-- Animated Intro with Neon Border -->
+<div align="center" style="
+  background: linear-gradient(145deg, rgba(0,255,204,0.2), rgba(0,0,0,0.8));
+  border: 2px solid rgba(0,255,204,0.6);
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 0 0 25px rgba(0,255,204,0.5);
+  animation: neonPulse 4s infinite alternate;
+">
+
+<h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=👋+Hi%2C+I'm+Faduma+Qasim;💻+Full+Stack+Developer;🎓+Computer+Science+Major;🚀+Turning+Ideas+into+Code!" alt="Typing SVG" />
 </h1>
 
@@ -7,19 +16,27 @@
   💬 <em>"Code is not just syntax — it’s how I shape possibilities."</em>
 </p>
 
+</div>
+
+<!-- Neon Animation -->
+<style>
+@keyframes neonPulse {
+  from { box-shadow: 0 0 15px rgba(0,255,204,0.3); }
+  to { box-shadow: 0 0 30px rgba(0,255,204,0.8); }
+}
+</style>
+
 ---
 
 <div align="center" style="background: rgba(20, 20, 20, 0.8); padding: 20px; border-radius: 20px; box-shadow: 0 0 15px rgba(0,0,0,0.5);">
 
 ### 👩‍💻 About Me
-I’m a **Full Stack Developer** and **Computer Science Major** who loves creating impactful, efficient, and visually appealing digital experiences.  
-I blend creativity and logic to develop seamless UIs and robust backend systems.
-
+I’m a **Full Stack Developer** and **Computer Science Major** passionate about crafting intuitive interfaces and powerful backends.  
 💡 *“Turning complex challenges into elegant code.”*
 
-- 🔭 Currently enhancing my **React**, **Spring Boot**, and **MySQL** skills  
-- 🌱 Learning **Cloud**, **Microservices**, and **Clean Architecture**  
-- ⚡ Focused on building scalable and maintainable solutions  
+- 🔭 Currently exploring **React**, **Spring Boot**, and **MySQL**  
+- 🌱 Learning **Microservices**, **Cloud**, and **System Design**  
+- ⚡ Passionate about **building scalable, user-centric applications**
 
 ---
 
@@ -36,16 +53,16 @@ I blend creativity and logic to develop seamless UIs and robust backend systems.
 ### 🚀 Featured Projects  
 
 #### 🌐 [Aleif Mental Health Website](https://github.com/FadumaQasim/aleif-mental-health)
-A responsive **therapy and counseling platform** built with React and Tailwind CSS.  
-🟢 *Clean design, accessible interface, and modern animations.*  
+A responsive **therapy and counseling platform** built with React + Tailwind CSS.  
+🟢 *Clean design, accessible interface, and smooth animations.*
 
 #### 💼 [Staff Management System](https://github.com/FadumaQasim/staff-management-system)
-A **Spring Boot–based system** with a clean 3-tier architecture and Lombok.  
-🟢 *Efficient CRUD operations and RESTful API integration.*  
+A **Spring Boot 3-tier system** with Lombok and REST APIs.  
+🟢 *Seamless CRUD operations and optimized backend.*
 
 #### 🤖 [Fake News Detection (LSTM-Based)](https://github.com/FadumaQasim/fake-news-detection)
-A **machine learning project** for fake news detection using **LSTM neural networks**.  
-🟢 *Smart, data-driven, and AI-powered classification model.*
+A **machine learning project** detecting fake news with **LSTM networks**.  
+🟢 *Data-driven, AI-powered classification engine.*
 
 ---
 

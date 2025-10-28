@@ -18,32 +18,28 @@ I am a passionate **Full Stack Developer** who loves crafting functional, user-f
 
 ## 🛠️ Tech Stack
 - **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), TailwindCSS  
-- **Backend:** Node.js, Express.js, Spring Boot  
+- **Backend:** Node.js 
 - **Database:** MongoDB, MySQL  
 - **Tools:** Git & GitHub, Postman, VS Code, npm  
-- **Other:** JWT Auth, API Integration, MVC Architecture, Deployment (Vercel / Netlify / Heroku)  
 
 ---
 
 ## 📂 Projects
 - 🌟 **Aleif Mental Health** – Responsive therapy & counseling platform  
 - 🚀 **Staff Management System** – 3-tier architecture CRUD system  
-- ✨ **Fake News Detection** – LSTM-based machine learning project  
 
 ---
 
 ## 🌱 Currently Learning
 - Advanced **React patterns & state management**  
 - Building robust **full-stack applications**  
-- **Cloud deployment** and CI/CD workflows  
 
 ---
 
 ## 🤝 Let’s Connect
-- 📧 **Email:** faduma.qasim@example.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/fadumaqasim](https://linkedin.com/in/fadumaqasim)  
+- 📧 **Email:** miinabbe@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/fadumaqasim]([https://linkedin.com/in/fadumaqasim](https://x.com/ina68685?s=11))  
 - 🐱 **GitHub:** [github.com/FadumaQasim](https://github.com/FadumaQasim)  
-- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
 
 ---
 

@@ -38,8 +38,8 @@ I am a passionate **Full Stack Developer** who loves crafting functional, user-f
 
 ## 🤝 Let’s Connect
 - 📧 **Email:** miinabbe@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/fadumaqasim]([https://linkedin.com/in/fadumaqasim](https://x.com/ina68685?s=11))  
-- 🐱 **GitHub:** [github.com/FadumaQasim](https://github.com/FadumaQasim)  
+- 🔗 **LinkedIn:** https://linkedin.com/in/fadumaqasim](https://x.com/ina68685?s=11 
+- 🐱 **GitHub:** (ttps://github.com/FadumaQasim](https://github.com/ina-qasim
 
 ---
 
